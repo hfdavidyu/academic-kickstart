@@ -63,12 +63,10 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "sptfung@gmail.com"
-  address = "Hui Oui Chow Building 226, University of Hong Kong, Pokfulam, Hong Kong"
+  email = "sdavidyu@hku.hk"
+  address = "Room 226, Hui Oui Chow Science Building, University of Hong Kong, Pokfulam, Hong Kong"
   office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
-  Otherwise email to book an appointment
+  Email to book an appointment
   """
   phone = "+852 3917 8575"
   skype = "hfyudavid"
