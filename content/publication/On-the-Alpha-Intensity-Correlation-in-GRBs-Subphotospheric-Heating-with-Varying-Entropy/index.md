@@ -1,5 +1,5 @@
 +++
-title = "On the α-Intensity Correlation in GRBs Subphotospheric Heating With Varying Entropy"
+title = "On the α-Intensity Correlation in GRBs: Subphotospheric Heating With Varying Entropy"
 date = 2019-04-01T23:32:12+08:00
 draft = false
 

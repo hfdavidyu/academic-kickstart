@@ -26,7 +26,7 @@ abstract = "In view of the recent report by Connaughton et al., we analyze conti
 abstract_short = "In view of the recent report by Connaughton et al., we analyze continuous time-tagged event (TTE) data of Fermi-gamma-ray burst monitor (GBM) around the time of the gravitational-wave event GW 150914. As a result, faint short GRBs, verified by ACS detections, with significances in the broadband light curve even smaller than that of the GBM-GW150914 event are recovered as proper non-zero source, while the GBM-GW150914 event is consistent with zero fluence."
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

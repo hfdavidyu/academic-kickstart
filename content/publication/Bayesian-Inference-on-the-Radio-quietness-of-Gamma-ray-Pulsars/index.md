@@ -1,5 +1,5 @@
 +++
-title = "Bayesian Inference on the Radio Quietness of Gamma Ray Pulsars"
+title = "Bayesian Inference on the Radio-quietness of Gamma-ray Pulsars"
 date = 2018-04-01T23:30:03+08:00
 draft = false
 
